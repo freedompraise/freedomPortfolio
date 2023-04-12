@@ -9,12 +9,12 @@ import experience from "../DB/experience.json";
 
 function Body() {
   return (
-    <section className="flex flex-wrap h-full">
+    <section className="flex flex-wrap h-full text-white">
       <article className="w-[18rem] mx-auto  md:w-1/2 lg:w-1/2">
         <div className="flex flex-wrap items-center gap-6 text-[1.4rem]">
           <img
             // Change the image to your own image
-            src="https://github.com/priyankarpal.png"
+            src="https://github.com/freedompraise.png"
             alt="priyankarpal"
             className="h-20 rounded-full"
           />
@@ -24,31 +24,25 @@ function Body() {
           {/* For socials icons */}
           <Socials />
         </div>
-        <p className=" text-gray-700 pt-5">
-          <span className="text-green-400"> -</span> 👶 I'm Priyankar Pal a
-          front-end web developer from India.
+        <p className=" text-gray-300 pt-5">
+          <span className="text-green-400"> -</span> 👶 I'm Praise Dike a
+          back-end web developer.
         </p>
-        <p className="text-gray-700">
+        <p className="text-gray-300">
           {" "}
-          <span className="text-green-400"> -</span> 👨‍💻 A Open Source
-          contributor became a Maintainer.
+          <span className="text-green-400"> -</span> 👨‍💻 I have experience contributing to various open-source projects and collaborating with other developers.
         </p>
-        <p className="text-gray-700">
+        <p className="text-gray-300">
           {" "}
-          <span className="text-green-400"> -</span> ⚒️ Mainly I work with
-          JavaScript and TailWind CSS on a daily basis.
+          <span className="text-green-400"> -</span> ⚒️ I primarily work with Python, and JavaScript frameworks like NodeJs and ReactJs.
         </p>
-        <p className="text-gray-700">
+        <p className="text-gray-300">
           {" "}
-          <span className="text-green-400"> -</span> 🤡 Also, I create memes on
-          code.
+          <span className="text-green-400"> -</span> 📚 I enjoy learning and staying up-to-date with the latest developments in the industry.
         </p>
 
-        <p className="pt-5 pb-5 text-gray-700">
-          As a first-year CSE student specializing in ReactJS development,
-          proficiency in contributing to a variety of open-source projects and
-          an avid Linux user, there is always a desire to improve my abilities
-          and knowledge to provide the best possible results.
+        <p className="pt-5 pb-5 text-gray-300">
+        A chemical engineering student turned programmer with a passion for problem-solving and a well-rounded understanding of design principles and web flows. A lover of music and sports, with a curious mind and a thirst for knowledge, always seeking out new information on business, tech startups, and entrepreneurship
         </p>
         {/* Projects section*/}
 

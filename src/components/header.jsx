@@ -5,7 +5,7 @@ function Header() {
     <header>
       <nav className=" flex justify-center h-[5rem] pt-5 w-full">
         <p className="lg:w-1/2 mx-auto font-semibold text-xl">
-          priyank<span className="text-yellow-500">.js</span>
+          praise<span className="text-blue-500">.py</span>
         </p>
       </nav>
     </header>

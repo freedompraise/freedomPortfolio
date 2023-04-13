@@ -1,19 +1,19 @@
 [
     {
-        "title": "Started Open Source Contributions",
-        "description": "Started learning how to contribute to Open Source and contributed some Open Source Projects",
-        "date": "November 2022"
+        "title": "LinkFree - Open Source Contributor",
+        "description": "Contributed to LinkFree, an open-source alternative for LinkTree, by adding my profile to their data section. As a result, I was able to create a personalized site for hosting my links. This experience allowed me to learn more about open source development and gave me the opportunity to contribute to a project with a growing community",
+        "date": "March 2022",
+        "link":"https://github.com/freedompraise/linkfree"
     },
     {
-        "title": "Created Open Source Project",
-        "description": "Created ProjectsHut Open Source website. A place where you will find lots of cool projects",
-        "date": "February 2023",
-        "link": "https://github.com/priyankarpal/ProjectsHut"
+        "title": "TellerOne - Backend Dev Intern",
+        "description": "During my internship at TellerOne, a financial institution startup in Lagos, Nigeria, I worked as a backend developer, using Spring Boot and Axon Framework to refactor codes, and work on assigned tickets to create endpoints for our microservices application",
+        "date": "May 2022",
+        "link": "https://www.tellerone.co/"
     },
     {
-        "title": "Contributor to Maintainer",
-        "description": "From a great meeting to a new journey as a maintainer of the GitOpener OSS project",
-        "date": "March 2023",
-        "link": "https://github.com/pbclife/gitopener.vercel.app"
+        "title": "Freelance - Graphics Designer",
+        "description": "I have worked as a graphics designer, where I developed a deep understanding of design principles and web flows. This experience has given me the ability to create visually appealing designs and use the right keywords to achieve desired outcomes in online marketing",
+        "date": "April 2020"
     }
 ]

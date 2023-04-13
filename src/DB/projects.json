@@ -1,12 +1,22 @@
 [
     {
-        "name": "Projectshut",
-        "description": "A platform to share your projects with the world.",
-        "github": "https://github.com/priyankarpal/ProjectsHut"
+        "name": "CronyGlasses",
+        "description": "A web app that presents the most demanded drinks in India and allows you to place orders",
+        "github": "https://github.com/freedompraise/cronyGlasses"
     },
     {
-        "name": "TheaTheme",
-        "description": "Thea is Color Theme. Download Thea Theme from VS Code Extension Marketplace for FREE.",
-        "github": "https://github.com/priyankarpal/TheaTheme"
+        "name": "SkyCast",
+        "description": "SkyCast is a web application that allows users to compare weather information for different cities, view historic weather data, and sign up for daily weather alerts.",
+        "github": "https://github.com/freedompraise/SkyCast"
+    },
+    {
+        "name": "Bankerr",
+        "description": "This is a sample project for a Bank Account API built using Spring Boot and Axon Framework.",
+        "github": "https://github.com/freedompraise/Bankerr"
+    },
+    {
+        "name": "Cleanser-Stores",
+        "description": "An ecommerce site to order your favourite cleaning items and pay with Paypal",
+        "github": "https://github.com/freedompraise/cleanser-stores"
     }
 ]

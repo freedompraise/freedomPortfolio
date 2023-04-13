@@ -15,7 +15,7 @@ function Body() {
           <img
             // Change the image to your own image
             src="https://github.com/freedompraise.png"
-            alt="priyankarpal"
+            alt="freedompraise"
             className="h-20 rounded-full"
           />
           <h1 className="text-4xl font-semibold font-dancingScript tracking-widest">

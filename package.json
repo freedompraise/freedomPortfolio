@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@vercel/analytics": "^0.1.11",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.8.0"
@@ -22,5 +24,10 @@
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.1",
     "vite": "^4.2.1"
-  }
+  },
+  "description": "- Just click on the fork button\r - clone this repository to your local system\r - navigate to the folder\r - install `node_modules` using `pnpm i`\r - run the website using `pnpm dev`\r - Customize it in your way",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

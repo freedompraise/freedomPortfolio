@@ -1,5 +1,5 @@
 # base image
-FROM node:14.17.0-alpine
+FROM node:16.14-alpine
 RUN npm install -g pnpm
 
 

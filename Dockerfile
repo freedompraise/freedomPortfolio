@@ -1,5 +1,7 @@
 # base image
 FROM node:14.17.0-alpine
+RUN npm install -g pnpm
+
 
 # set working directory
 WORKDIR /
